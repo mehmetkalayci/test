@@ -4931,27 +4931,27 @@ const Mh = /* @__PURE__ */ Jt(Rh, [["render", xh]]), Ih = yh({
         {
           path: "/",
           name: "Home",
-          component: () => import("./HomeView-BmeTCBPW.js")
+          component: () => import("./HomeView-wYa2kJy5.js")
         },
         {
           path: "/main-view",
           name: "HomePage",
-          component: () => import("./HomeView-BmeTCBPW.js")
+          component: () => import("./HomeView-wYa2kJy5.js")
         },
         {
           path: "/location",
           name: "LocationPage",
-          component: () => import("./LocationView-K_fK3NXC.js")
+          component: () => import("./LocationView-0xbLNnkk.js")
         },
         {
           path: "/compare",
           name: "ComparePage",
-          component: () => import("./CompareView-x1NvA9O-.js")
+          component: () => import("./CompareView-myXaP7SK.js")
         },
         {
           path: "/gallery",
           name: "GalleryPage",
-          component: () => import("./GalleryView-JAk8I2pd.js")
+          component: () => import("./GalleryView-YLdxca4q.js")
         }
       ]
     }
@@ -8112,12 +8112,11 @@ Me.use(ag, {
     key: "AIzaSyA7cMwNKdFcVybV9YjvnvPhJ2sEBpoCQlQ"
   }
 });
-function lg(t) {
-  Me.mount(t);
-}
-window.mountWidget = lg;
-const ug = "production";
-console.log("Current Widget Mode:", ug);
+window.mountWidget = function(e) {
+  Me.mount(e);
+};
+const lg = "production";
+console.log("Current Widget Mode:", lg);
 export {
   Jt as _,
   pf as c,
