@@ -1,2 +1,2 @@
-import "./main-oj4nAdLf.js";
+import "./main-LXnls68N.js";
 import "vue";
