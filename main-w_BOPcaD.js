@@ -4931,27 +4931,27 @@ const Mh = /* @__PURE__ */ Jt(Rh, [["render", xh]]), Ih = yh({
         {
           path: "/",
           name: "Home",
-          component: () => import("./HomeView-wYa2kJy5.js")
+          component: () => import("./HomeView-ZQMLn-q7.js")
         },
         {
           path: "/main-view",
           name: "HomePage",
-          component: () => import("./HomeView-wYa2kJy5.js")
+          component: () => import("./HomeView-ZQMLn-q7.js")
         },
         {
           path: "/location",
           name: "LocationPage",
-          component: () => import("./LocationView-0xbLNnkk.js")
+          component: () => import("./LocationView-yRsiItHj.js")
         },
         {
           path: "/compare",
           name: "ComparePage",
-          component: () => import("./CompareView-myXaP7SK.js")
+          component: () => import("./CompareView-V0ZmpsJi.js")
         },
         {
           path: "/gallery",
           name: "GalleryPage",
-          component: () => import("./GalleryView-YLdxca4q.js")
+          component: () => import("./GalleryView-T1RY8TRo.js")
         }
       ]
     }
@@ -8112,11 +8112,11 @@ Me.use(ag, {
     key: "AIzaSyA7cMwNKdFcVybV9YjvnvPhJ2sEBpoCQlQ"
   }
 });
+const lg = "production";
+console.log("Current Widget Mode:", lg);
 window.mountWidget = function(e) {
   Me.mount(e);
 };
-const lg = "production";
-console.log("Current Widget Mode:", lg);
 export {
   Jt as _,
   pf as c,
