@@ -1,2 +1,2 @@
-import "./widget-lpIRQ1BT.js";
+import "./widget-usjqjvhJ.js";
 import "vue";

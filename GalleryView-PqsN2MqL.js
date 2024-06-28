@@ -1,5 +1,5 @@
 import { openBlock as o, createElementBlock as n, Fragment as r, createElementVNode as e, normalizeClass as c, renderList as d } from "vue";
-import { _ as g } from "./widget-lpIRQ1BT.js";
+import { _ as g } from "./widget-usjqjvhJ.js";
 const u = {
   data() {
     return {
