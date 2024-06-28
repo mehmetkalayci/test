@@ -4921,7 +4921,7 @@ function Dh(t, e, n, s, o, i) {
   ], 64);
 }
 const kh = /* @__PURE__ */ Jt(Nh, [["render", Dh]]), xh = _h({
-  history: Dd("/"),
+  history: Dd(),
   routes: [
     {
       path: "/",
@@ -4931,27 +4931,27 @@ const kh = /* @__PURE__ */ Jt(Nh, [["render", Dh]]), xh = _h({
         {
           path: "/",
           name: "Home",
-          component: () => import("./HomeView-_qnlgOo8.js")
+          component: () => import("./HomeView-HiwP--Qj.js")
         },
         {
           path: "/main-view",
           name: "HomePage",
-          component: () => import("./HomeView-_qnlgOo8.js")
+          component: () => import("./HomeView-HiwP--Qj.js")
         },
         {
           path: "/location",
           name: "LocationPage",
-          component: () => import("./LocationView-VknMwXC0.js")
+          component: () => import("./LocationView-ptxXKG1Z.js")
         },
         {
           path: "/compare",
           name: "ComparePage",
-          component: () => import("./CompareView-at-9vRgu.js")
+          component: () => import("./CompareView-l3eBkikX.js")
         },
         {
           path: "/gallery",
           name: "GalleryPage",
-          component: () => import("./GalleryView-1UBVtPJa.js")
+          component: () => import("./GalleryView-k_Te5ww7.js")
         }
       ]
     }

@@ -1,5 +1,5 @@
 import { openBlock as r, createElementBlock as o, createElementVNode as e, Fragment as y, renderList as f, createStaticVNode as m, resolveComponent as a, createVNode as c, withCtx as u, createBlock as b } from "vue";
-import { _ as n } from "./widget-MHeCTCpl.js";
+import { _ as n } from "./widget-HSsCATie.js";
 const w = {
   components: {},
   data() {
